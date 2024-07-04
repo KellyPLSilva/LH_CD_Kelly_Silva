@@ -1,10 +1,5 @@
 # Desafio Cientista de Dados
 
-<div align="center">
-  <img src="asset/capa_github.png" width="450"/>
-  
-</div>
-
 ## Introdução 
 
 O desafio é verificar os conhecimentos sobre a resolução de problemas de negócios, análise de dados e aplicação de modelos preditivos. 
